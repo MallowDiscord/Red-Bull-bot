@@ -1,4 +1,4 @@
-## Red Bull Music 24/2 Horas
+## Red Bull Bot 24/2 Horas
 <p align="center">
 <a href="https://pypi.org/project/black/"><img alt="PyPI" src="https://cdn.discordapp.com/attachments/992530985562423360/994974266422472816/Picsart_22-07-08_11-32-12-341.png"></a>
 
