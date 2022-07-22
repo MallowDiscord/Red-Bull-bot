@@ -6,3 +6,4 @@
 
 <a href='https://discord.com/api/oauth2/authorize?client_id=994819664389615666&permissions=8&scope=bot'><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Red Bull Music%239141&plastic&color=7289DA&logo=discord"></a>
 
+  
